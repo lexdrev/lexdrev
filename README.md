@@ -28,6 +28,13 @@ Based in Belgrade, Serbia. Currently working at [PashaPay](https://pashapay.az/e
 | CI/CD | GitHub Actions, Jenkins, GitLab CI/CD |
 | Reporting | Allure Report, Allure TestOps |
 
+## Personal project
+
+### [ORIGAMI](https://github.com/lexdrev/origami)
+A free, open-source Decky Loader plugin for the ROG Xbox Ally X on Bazzite. It brings power and TDP, fan curves, screen saturation, stick lighting, and gamepad settings into Steam's quick access menu, and fixes several Bazzite 44 bugs on the console.
+
+I defined the features, tracked down the system bugs, tested everything on real hardware, and handled the releases. The code was written with Claude Code.
+
 ## Public projects
 
 These repositories include earlier test automation examples. They illustrate specific testing approaches rather than the full scope of my current work.
@@ -49,7 +56,7 @@ Practice-form automation covering input fields, date selection, file uploads, an
 
 ## Beyond testing
 
-I enjoy strength training, traveling, exploring new places, reading, and playing video games. I also like trying out new tech and gadgets, especially XR glasses and gaming handhelds.
+I enjoy strength training, traveling, exploring new places, reading, and playing video games. I also like trying out new tech and gadgets, especially XR glasses and gaming handhelds. That's how [ORIGAMI](https://github.com/lexdrev/origami) started.
 ___
 ## 📊 GitHub Stats
 
